@@ -1,2 +1,3 @@
 Hello! This is my first Git and Github project.
 I am learning version control using Git.
+This is my second version of project.
